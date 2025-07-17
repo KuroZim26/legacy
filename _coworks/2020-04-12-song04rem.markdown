@@ -7,6 +7,8 @@ layout: default
 nav_order: 5
 ---
 
+# 简单的歌 2020 Version
+
 >  让曾经那首简单的旋律，更加艳丽而无畏地绽放吧
 
 ## 歌曲信息

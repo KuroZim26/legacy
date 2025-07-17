@@ -7,6 +7,8 @@ layout: default
 nav_order: 19
 ---
 
+# Good Lonely Night
+
 >  一首极为简单的晚安曲。
 
 ## 歌曲信息

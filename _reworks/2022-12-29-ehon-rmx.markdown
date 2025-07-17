@@ -7,11 +7,11 @@ layout: default
 nav_order: 2
 ---
 
+## 絵本 *(Kuro Zim's “Lost and Found” Bootleg)*
+
 > 丢掉无法超越的温暖回忆，是否就能相应地得到成长的补偿？
 
 ## 歌曲信息
-
-**絵本 (Kuro Zim's “Lost and Found” Bootleg)**
 
 原作：北沢 志保 (CV.雨宮 天) - 絵本
 

@@ -7,6 +7,8 @@ layout: default
 nav_order: 6
 ---
 
+# FASTER
+
 > 感谢GRGE，中文EUROBEAT安排上了！
 
 ## 歌曲信息

@@ -7,6 +7,8 @@ layout: default
 nav_order: 12
 ---
 
+# 小小的我 ~Greatness within Tinyness~
+
 > 小小的我不再渺小，因为有每一个你，完整了我的存在意义。
 
 > 你精心维护的小小宇宙，绝不是毫无意义的。

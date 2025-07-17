@@ -7,11 +7,11 @@ layout: default
 nav_order: 3
 ---
 
+# 初恋バタフライ *(Kuro Zim's “恋生夢蝶 / KOISEIMUCHOU” Bootleg)*
+
 > 不是HKT48那首！不是HKT48那首！不是HKT48那首！
 
 ## 歌曲信息
-
-**初恋バタフライ (Kuro Zim's “恋生夢蝶 / KOISEIMUCHOU” Bootleg)**
 
 原作：宮尾 美也 (CV. 桐谷 蝶々) - 初恋バタフライ
 

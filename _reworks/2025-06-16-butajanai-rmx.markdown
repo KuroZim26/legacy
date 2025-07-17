@@ -7,11 +7,11 @@ layout: default
 nav_order: 7
 ---
 
+# 我不是猪 *(Kuro Zim's “愛志霸云最速伝説 / AcFun Saisoku Densetsu” Remix)*
+
 > Anti一本正经，Gachi两眼一黑！
 
 ## 歌曲信息
-
-**我不是猪 (Kuro Zim's “愛志霸云最速伝説 / AcFun Saisoku Densetsu” Remix)**
 
 作词：小勒个朵/AC娘本体
 

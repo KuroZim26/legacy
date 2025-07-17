@@ -7,11 +7,11 @@ layout: default
 nav_order: 4
 ---
 
+# BELIEVE *(Kuro Zim's “Remorseless Believer” Remix)*
+
 > 无论相伴同行还是品尝孤独，我们都是无悔的信徒。
 
 ## 歌曲信息
-
-**BELIEVE (Kuro Zim's “Remorseless Believer” Remix)**
 
 作词：妖狐公子
 

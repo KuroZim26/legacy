@@ -7,6 +7,8 @@ layout: default
 nav_order: 11
 ---
 
+# 答案是爱 ~LOVE is the Key~
+
 > 始终坚信着，爱的美好，是足以穿破黑夜的内心之光。
 
 ## 歌曲信息

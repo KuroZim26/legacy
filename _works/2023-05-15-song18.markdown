@@ -7,6 +7,8 @@ layout: default
 nav_order: 18
 ---
 
+# LOVE is My Key——献给七年来的挣扎与交战
+
 >  Love is the Key, 试图在旋律和节奏之中编织理想。<br>Love is my Key, 试图在挣扎与交战之中寻求答案。<br>还能坚持下来吗？在这无法调和的内心交战之中。<br>
 若能，至少不要再以“幸福”的名义欺骗自己。
 

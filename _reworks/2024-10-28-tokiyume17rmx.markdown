@@ -7,11 +7,11 @@ layout: default
 nav_order: 6
 ---
 
+# 时光筑梦 *(Kuro Zim's “17 Colors and One Moment” Remix)*
+
 > 用十七色的时光，筑一瞬的美梦
 
 ## 歌曲信息
-
-**时光筑梦 (Kuro Zim's “17 Colors and One Moment” Remix)**
 
 作词/歌手：AC娘本体
 

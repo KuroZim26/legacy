@@ -7,6 +7,8 @@ layout: default
 nav_order: 2
 ---
 
+# Purewhite Dream - Candlelight Ver.
+
 >  永远的陪伴，就是最好的答案。
 
 ## 歌曲信息

@@ -7,6 +7,8 @@ layout: default
 nav_order: 4
 ---
 
+# 简单的歌 ~A Simple Song~
+
 >  想用这首简单的歌，传达一份不简单的心意
 
 ## 歌曲信息

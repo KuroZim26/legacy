@@ -7,11 +7,13 @@ layout: default
 nav_order: 1
 ---
 
+# ホントウノワタシ *(Kuro Zim's “Once Upon a Rainy Night” Bootleg)*
+
 > 在很久前的雨夜，是你在歌中也唱起了我。
 
 ## 歌曲信息
 
-**ホントウノワタシ (Kuro Zim's “Once Upon a Rainy Night” Bootleg)**
+
 
 原作：田中 琴葉 (CV. 種田 梨沙) - ホントウノワタシ
 

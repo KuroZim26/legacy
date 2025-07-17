@@ -7,11 +7,13 @@ layout: default
 nav_order: 2
 ---
 
+# 差不多ACer *(差不多先生 AC16 Edition~)*
+
 > 差不多的AcFun，是个差不多的圈。差不多的ACer们，过着差不多的每一天。
 
 ## 歌曲信息
 
-**差不多ACer (差不多先生 ~AcFun 16周年 Edition~)**
+
 
 原作：MC HOTDOG - 差不多先生
 

@@ -7,6 +7,8 @@ layout: default
 nav_order: 30
 ---
 
+# 不如爱吃饭 / 不如去吃饭
+
 > 好好吃饭好好生活，认真你就输了
 >
 > You gonna live your life, instead of surfing your life

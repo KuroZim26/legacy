@@ -7,6 +7,8 @@ layout: default
 nav_order: 20
 ---
 
+# 最难的课题 ~The Hardest Subject~
+
 > 爱自己，是人生中最难的课题；直面自己，是对回忆最好的反击。
 
 ## 歌曲信息

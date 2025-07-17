@@ -7,6 +7,8 @@ layout: default
 nav_order: 1
 ---
 
+# 幸福的语言 ~Words of Happiness~
+
 >  这首歌无论从什么角度来讲，都是一个里程碑。
 
 ## 歌曲信息

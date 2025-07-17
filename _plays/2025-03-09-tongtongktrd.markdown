@@ -7,11 +7,11 @@ layout: default
 nav_order: 4
 ---
 
+# 牢赵牢赵张开嘴 (TongTongRider)
+
 > 牢赵牢赵张开嘴，让我知道我是谁
 
 ## 歌曲信息
-
-**牢赵牢赵张开嘴 (TongTongRider)**
 
 原作：DOUDOU《嗵嗵》
 

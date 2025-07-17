@@ -1,11 +1,13 @@
 ---
-title:  枕边的日记 ~Bedside Diary~
+title: 枕边的日记 ~Bedside Diary~
 author: Kuro Zim & 洛微
 date: 2017-07-12
 category: Jekyll
 layout: default
 nav_order: 1
 ---
+
+# 枕边的日记 ~Bedside Diary~
 
 > 明天就是定下的日期，在梦里是你欣慰的笑意。
 

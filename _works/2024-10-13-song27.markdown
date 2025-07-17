@@ -7,6 +7,8 @@ layout: default
 nav_order: 29
 ---
 
+# 唯一指定 ONE AND ONLY
+
 > 你与我，都是多元宇宙里的唯一
 
 ## 歌曲信息

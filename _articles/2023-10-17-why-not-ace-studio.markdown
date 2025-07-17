@@ -7,6 +7,8 @@ layout: default
 nav_order: 2
 ---
 
+# 音符菌弃用ACE Studio始末
+
 > 本文包括2023年9月10日在[AcFun文章](https://www.acfun.cn/a/ac42307550) / [Bilibili专栏](https://www.bilibili.com/read/cv26430179/)发布的一篇关于对ACE Studio收费制的讨论，以及2023年10月17日ACE Studio正式付费化后，在[AcFun文章](https://www.acfun.cn/a/ac42674303)发布的弃坑说明。点击链接可查看对应的全文。
 
 ## Part 1：“破自行车”要靠租了？租不租看我！拒绝冲动消费！

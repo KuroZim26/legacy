@@ -7,11 +7,11 @@ layout: default
 nav_order: 5
 ---
 
+# 小超快跑 *(Kuro Zim's “ManiAc-Funkot:177” Remix)*
+
 > 跟着Funkot的节拍，小超快跑嗨起来！
 
 ## 歌曲信息
-
-**小超快跑 (Kuro Zim's “ManiAc-Funkot:177” Remix)**
 
 作词：AC娘本体 (原作) / Kuro Zim (MC石头段)
 

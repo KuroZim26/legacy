@@ -7,9 +7,9 @@ layout: default
 nav_order: 2
 ---
 
+# Hey Kuro
+
 >  曾经的约定，我还记着，但更想遇见，现在的你。
-
-
 
 ## 歌曲信息
 

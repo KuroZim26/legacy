@@ -7,11 +7,11 @@ layout: default
 nav_order: 5
 ---
 
+# テトリス *(AC18 Edition)*
+
 > 小超旋转两分半.mp4
 
 ## 歌曲信息
-
-**テトリス (AC18 Edition)**
 
 原作：柊マグネタイト - テトリス
 
