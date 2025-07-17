@@ -3,7 +3,7 @@ title: 差不多ACer
 author: Kuro Zim
 date: 2023-06-09
 category: Jekyll
-layout: post
+layout: default
 nav_order: 2
 ---
 

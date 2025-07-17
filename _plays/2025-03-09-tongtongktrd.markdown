@@ -3,7 +3,7 @@ title: 牢赵牢赵张开嘴
 author: Kuro Zim
 date: 2025-03-09
 category: Jekyll
-layout: post
+layout: default
 nav_order: 4
 ---
 

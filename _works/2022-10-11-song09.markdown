@@ -3,7 +3,7 @@ title: 昨日雨·今日晴
 author: Kuro Zim
 date: 2022-10-10
 category: Jekyll
-layout: post
+layout: default
 nav_order: 9
 ---
 

@@ -3,7 +3,7 @@ title: 关于本页面
 author: KuroZim26
 date: 2025-07-15
 category: Jekyll
-layout: post
+layout: default
 nav_order: 3
 ---
 

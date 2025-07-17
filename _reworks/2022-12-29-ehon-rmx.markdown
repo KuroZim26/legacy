@@ -3,7 +3,7 @@ title: 絵本 Bootleg
 author: Kuro Zim
 date: 2022-12-28
 category: Jekyll
-layout: post
+layout: default
 nav_order: 2
 ---
 

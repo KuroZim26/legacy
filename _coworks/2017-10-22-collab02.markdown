@@ -3,7 +3,7 @@ title: Purewhite Dream - Candlelight Ver.
 author: Kuro Zim & 洛微
 date: 2017-10-22
 category: Jekyll
-layout: post
+layout: default
 nav_order: 2
 ---
 

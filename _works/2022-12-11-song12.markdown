@@ -3,7 +3,7 @@ title: 小小的我 ~Greatness within Tinyness~
 author: Kuro Zim
 date: 2022-12-10
 category: Jekyll
-layout: post
+layout: default
 nav_order: 12
 ---
 

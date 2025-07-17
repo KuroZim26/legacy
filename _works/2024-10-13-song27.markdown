@@ -3,7 +3,7 @@ title: 唯一指定 ONE AND ONLY
 author: Kuro Zim
 date: 2024-10-13
 category: Jekyll
-layout: post
+layout: default
 nav_order: 29
 ---
 

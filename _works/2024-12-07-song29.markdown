@@ -3,7 +3,7 @@ title: 走出童话的旅人
 author: Kuro Zim
 date: 2024-12-07
 category: Jekyll
-layout: post
+layout: default
 nav_order: 31
 ---
 

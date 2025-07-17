@@ -3,7 +3,7 @@ title: ホントウノワタシ Bootleg
 author: Kuro Zim
 date: 2022-10-05
 category: Jekyll
-layout: post
+layout: default
 nav_order: 1
 ---
 

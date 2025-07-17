@@ -3,7 +3,7 @@ title: 许我一场清醒梦
 author: Kuro Zim
 date: 2024-03-17
 category: Jekyll
-layout: post
+layout: default
 nav_order: 26
 ---
 

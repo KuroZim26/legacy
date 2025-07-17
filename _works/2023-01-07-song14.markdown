@@ -3,7 +3,7 @@ title: 告别之夜
 author: Kuro Zim
 date: 2023-01-07
 category: Jekyll
-layout: post
+layout: default
 nav_order: 14
 ---
 

@@ -3,7 +3,7 @@ title: 时光筑梦 Remix
 author: Kuro Zim
 date: 2024-10-28
 category: Jekyll
-layout: post
+layout: default
 nav_order: 6
 ---
 

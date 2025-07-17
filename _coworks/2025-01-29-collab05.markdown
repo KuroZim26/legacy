@@ -3,7 +3,7 @@ title:  红包拿来！
 author: 团火坐岸音乐团队
 date: 2025-01-29
 category: Jekyll
-layout: post
+layout: default
 nav_order: 7
 ---
 

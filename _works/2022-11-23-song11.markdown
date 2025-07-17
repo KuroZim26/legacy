@@ -3,7 +3,7 @@ title: 答案是爱 ~LOVE is the Key~
 author: Kuro Zim
 date: 2022-11-23
 category: Jekyll
-layout: post
+layout: default
 nav_order: 11
 ---
 

@@ -3,7 +3,7 @@ title: テトリス (AC18 Edition)
 author: Kuro Zim
 date: 2025-06-16
 category: Jekyll
-layout: post
+layout: default
 nav_order: 5
 ---
 

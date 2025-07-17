@@ -3,7 +3,7 @@ title: 简单的歌 2020 Version
 author: Kuro Zim
 date: 2020-04-12
 category: Jekyll
-layout: post
+layout: default
 nav_order: 5
 ---
 

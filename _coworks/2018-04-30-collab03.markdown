@@ -3,7 +3,7 @@ title: 被复制的宝藏
 author: 小黑 × 洛微
 date: 2018-04-30
 category: Jekyll
-layout: post
+layout: default
 nav_order: 3
 ---
 

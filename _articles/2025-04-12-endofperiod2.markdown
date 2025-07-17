@@ -3,7 +3,7 @@ title: 关于个人创作第二阶段的终结
 author: Kuro Zim
 date: 2025-04-12
 category: Jekyll
-layout: post
+layout: default
 nav_order: 3
 ---
 

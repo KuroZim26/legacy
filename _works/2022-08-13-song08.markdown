@@ -3,7 +3,7 @@ title: NOW is the Time
 author: H1kawa26
 date: 2022-08-12
 category: Jekyll
-layout: post
+layout: default
 nav_order: 8
 ---
 

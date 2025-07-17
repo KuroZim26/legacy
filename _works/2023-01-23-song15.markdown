@@ -3,7 +3,7 @@ title: Nocturnal Floor
 author: Kuro Zim
 date: 2023-01-22
 category: Jekyll
-layout: post
+layout: default
 nav_order: 15
 ---
 

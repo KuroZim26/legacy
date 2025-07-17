@@ -3,7 +3,7 @@ title: 在地图尽头的城市
 author: Kuro Zim
 date: 2024-01-29
 category: Jekyll
-layout: post
+layout: default
 nav_order: 24
 ---
 

@@ -3,7 +3,7 @@ title: 音符菌弃用ACE Studio始末
 author: Kuro Zim
 date: 2023-10-17
 category: Jekyll
-layout: post
+layout: default
 nav_order: 2
 ---
 

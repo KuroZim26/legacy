@@ -3,7 +3,7 @@ title: 说好不阳
 author: Kuro Zim
 date: 2022-12-21
 category: Jekyll
-layout: post
+layout: default
 nav_order: 1
 ---
 

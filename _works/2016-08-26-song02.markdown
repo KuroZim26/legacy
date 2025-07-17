@@ -3,7 +3,7 @@ title:  Hey Kuro
 author: T.E.Zimmern
 date: 2016-08-26
 category: Jekyll
-layout: post
+layout: default
 nav_order: 2
 ---
 

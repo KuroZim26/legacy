@@ -3,7 +3,7 @@ title: LOVE is My Key——献给七年来的挣扎与交战
 author: Kuro Zim
 date: 2023-05-14
 category: Jekyll
-layout: post
+layout: default
 nav_order: 18
 ---
 

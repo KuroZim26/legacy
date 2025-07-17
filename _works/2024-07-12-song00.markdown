@@ -3,7 +3,7 @@ title: 洛天依也有梦想
 author: T.E.Zimmern → Kuro Zim
 date: 2024-07-12
 category: Jekyll
-layout: post
+layout: default
 nav_order: 28
 ---
 

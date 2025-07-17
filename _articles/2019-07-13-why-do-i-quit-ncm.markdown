@@ -3,7 +3,7 @@ title: 网易云：可以接受的和不能接受的
 author: Kuro Zim
 date: 2019-07-13
 category: Jekyll
-layout: post
+layout: default
 nav_order: 1
 ---
 

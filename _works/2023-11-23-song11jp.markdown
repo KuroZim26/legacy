@@ -3,7 +3,7 @@ title:  愛で答えで
 author: Kuro Zim
 date: 2023-11-23
 category: Jekyll
-layout: post
+layout: default
 nav_order: 22
 ---
 

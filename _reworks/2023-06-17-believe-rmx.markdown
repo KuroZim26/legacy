@@ -3,7 +3,7 @@ title: BELIEVE Remix
 author: Kuro Zim
 date: 2023-6-16
 category: Jekyll
-layout: post
+layout: default
 nav_order: 4
 ---
 

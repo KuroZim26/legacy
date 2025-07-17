@@ -3,7 +3,7 @@ title: Here I Am.
 author: H1kawa26
 date: 2022-07-12
 category: Jekyll
-layout: post
+layout: default
 nav_order: 7
 ---
 

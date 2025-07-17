@@ -3,7 +3,7 @@ title: 次元情书（可爱的你·重要的你）
 author: Kuro Zim
 date: 2017-08-12
 category: Jekyll
-layout: post
+layout: default
 nav_order: 3
 ---
 

@@ -3,7 +3,7 @@ title:  枕边的日记 ~Bedside Diary~
 author: Kuro Zim & 洛微
 date: 2017-07-12
 category: Jekyll
-layout: post
+layout: default
 nav_order: 1
 ---
 

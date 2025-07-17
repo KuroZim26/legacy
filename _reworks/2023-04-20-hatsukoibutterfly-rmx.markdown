@@ -3,7 +3,7 @@ title: 初恋バタフライ Bootleg
 author: Kuro Zim
 date: 2023-04-20
 category: Jekyll
-layout: post
+layout: default
 nav_order: 3
 ---
 

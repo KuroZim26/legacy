@@ -3,7 +3,7 @@ title: 我不是猪 Remix
 author: Kuro Zim
 date: 2025-6-16
 category: Jekyll
-layout: post
+layout: default
 nav_order: 7
 ---
 

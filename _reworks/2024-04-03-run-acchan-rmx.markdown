@@ -3,7 +3,7 @@ title: 小超快跑 Remix
 author: Kuro Zim
 date: 2024-04-03
 category: Jekyll
-layout: post
+layout: default
 nav_order: 5
 ---
 

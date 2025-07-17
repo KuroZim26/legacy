@@ -3,7 +3,7 @@ title: 最难的课题 ~The Hardest Subject~
 author: Kuro Zim
 date: 2023-06-23
 category: Jekyll
-layout: post
+layout: default
 nav_order: 20
 ---
 
