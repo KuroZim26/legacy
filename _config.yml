@@ -90,3 +90,6 @@ callouts:
     title: 高能预警
     color: red
 
+aux_links:
+  "主站点":
+    - "https://kurozim26.github.io/"
