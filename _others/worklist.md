@@ -9,6 +9,8 @@ nav_order: 2
 
 #  个人历史作品详单
 
+本清单内作品的最终更新时间：2025年6月16日
+
 ##  一、歌曲和完整原创音乐
 
 多数的原创作品均存放在以下[网易云电台](https://music.163.com/djradio?id=1218998615)以便试听。
@@ -153,7 +155,7 @@ nav_order: 2
 
 ### 2. 鬼畜 / 人力VOCALOID / 音MAD
 
-关于广义鬼畜形式的二次创作，详见分页【ONPUKUN's JINKELA Session】。
+关于广义鬼畜形式的二次创作，详见分页【[ONPUKUN's JINKELA Session](https://kurozim26.github.io/jinkela)】。
 
 ### 3. 其他综合二创
 
@@ -161,10 +163,12 @@ nav_order: 2
 
 ## 六、以非词曲作者身份参与制作的作品
 
-|             原作者 - 作品              |          担当职能          |                           试听链接                           |                             备注                             |
-| :------------------------------------: | :------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|      洛微 - 彼岸蔷薇 (Demo ver.)       |            编曲            |   [Bilibili](https://www.bilibili.com/video/BV15W411A7hK/)   |                                                              |
-|  DZ韦元子 - 光（ft. 星尘)(Cover 陈粒)  |           MV制作           |   [Bilibili](https://www.bilibili.com/video/BV1DE411S7ds/)   |                                                              |
-| DZ韦元子 - 少年 (ft. 星尘)(Cover 梦然) |           MV制作           |   [Bilibili](https://www.bilibili.com/video/BV1hf4y117ge)    | 考虑到该稿制作时本人处于比较窘迫的状态，因此本人选择在该稿件中匿名 |
-| 西园寺hihumi - 地球儀 (Cover 米津玄师) |       简单修对与后期       | [AcFun](https://www.acfun.cn/v/ac44510403) / [Bilibili](https://www.bilibili.com/video/BV1wi421X7Je/) |                                                              |
-|        AC娘×金坷垃 父爱如山组曲        | 部分稿件修对<br>全部MV制作 |          [AcFun](https://www.acfun.cn/v/ac47399776)          |                                                              |
+|                原作者 - 作品                 |          担当职能          |                           试听链接                           |                             备注                             |
+| :------------------------------------------: | :------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|         洛微 - 彼岸蔷薇 (Demo ver.)          |            编曲            |   [Bilibili](https://www.bilibili.com/video/BV15W411A7hK/)   |                                                              |
+|     DZ韦元子 - 光（ft. 星尘)(Cover 陈粒)     |           MV制作           |   [Bilibili](https://www.bilibili.com/video/BV1DE411S7ds/)   |                                                              |
+|    DZ韦元子 - 少年 (ft. 星尘)(Cover 梦然)    |           MV制作           |   [Bilibili](https://www.bilibili.com/video/BV1hf4y117ge)    | 考虑到该稿制作时本人处于比较窘迫的状态，因此本人选择在该稿件中匿名 |
+|               AC娘本体 - AC AC               |          和声参与          |          [AcFun](https://www.acfun.cn/v/ac41615489)          |                 AcFun16周年站庆官方出品歌曲                  |
+| Luna* - あの夏のいつかは (竹子等八人Cover版) |         MV素材提供         | [AcFun](https://www.acfun.cn/v/ac42113266) / [Bilibili](https://www.bilibili.com/video/BV1n94y167hf/) |                                                              |
+|    西园寺hihumi - 地球儀 (Cover 米津玄师)    |       简单修对与后期       | [AcFun](https://www.acfun.cn/v/ac44510403) / [Bilibili](https://www.bilibili.com/video/BV1wi421X7Je/) |                                                              |
+|           AC娘×金坷垃 父爱如山组曲           | 部分稿件修对<br>全部MV制作 |          [AcFun](https://www.acfun.cn/v/ac47399776)          |                                                              |
